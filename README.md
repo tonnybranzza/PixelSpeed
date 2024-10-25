@@ -61,4 +61,4 @@ Patron Structurel
 Composite : Utilisé pour gérer les objets sur le circuit, comme les obstacles et les power-ups.
 
 Algorithme de Gestion de l'IA
-Algorithme de A-Star: L'algorithme A star combine les avantages de la recherche de chemins possibles. Il permet aux IA de naviguer efficacement sur le circuit en trouvant le chemin le plus court tout en évitant les obstacles (comme les tâches d'huile) et en réévaluant constamment leur position par rapport aux autres véhicules. Cela permet aux IA de réagir rapidement.
+Algorithme de A-Star: L'algorithme A star combine les avantages de la recherche de chemins possibles. Il permet aux IA de naviguer efficacement sur le circuit en trouvant le chemin le plus court tout en évitant les obstacles (comme les tâches d'huile) et en réévaluant constamment leur position par rapport aux autres véhicules. Cela permet aux IA de réagir  rapidement.
