@@ -50,3 +50,15 @@ duration: durée de l'effet
 Méthodes :
 
 applyEffect(vehicle): applique l'effet au véhicule ciblé.
+
+
+Patrons
+
+Patron de Création
+Singleton : Utilisé pour la classe Game afin de garantir qu'il n'y ait qu'une seule instance de jeu active à un moment donné.
+
+Patron Structurel
+Composite : Utilisé pour gérer les objets sur le circuit, comme les obstacles et les power-ups.
+
+Algorithme de Gestion de l'IA
+Algorithme de A-Star: L'algorithme A star combine les avantages de la recherche de chemins possibles. Il permet aux IA de naviguer efficacement sur le circuit en trouvant le chemin le plus court tout en évitant les obstacles (comme les tâches d'huile) et en réévaluant constamment leur position par rapport aux autres véhicules. Cela permet aux IA de réagir rapidement.
